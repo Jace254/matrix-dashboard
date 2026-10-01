@@ -1,0 +1,51 @@
+// Every static asset below was exported 1:1 from the Figma file (node 852:2046).
+import logo from "@/assets/icons/logo.svg"
+import selectorChevrons from "@/assets/icons/selector-chevrons.svg"
+import home from "@/assets/icons/home-01.svg"
+import homeOutline from "@/assets/icons/home-01-outline.svg"
+import chartBarLine from "@/assets/icons/chart-bar-line.svg"
+import money from "@/assets/icons/money-03.svg"
+import file02 from "@/assets/icons/file-02.svg"
+import file02White from "@/assets/icons/file-02-white.svg"
+import bubbleChat from "@/assets/icons/bubble-chat.svg"
+import presentation from "@/assets/icons/presentation-bar-chart-01.svg"
+import megaphone from "@/assets/icons/megaphone-01.svg"
+import userMultiple from "@/assets/icons/user-multiple-02.svg"
+import modernTv from "@/assets/icons/modern-tv.svg"
+import invoice from "@/assets/icons/invoice.svg"
+import userList from "@/assets/icons/user-list.svg"
+import invoice01 from "@/assets/icons/invoice-01.svg"
+import archive from "@/assets/icons/archive-04.svg"
+import archiveHeader from "@/assets/icons/archive-04-header.svg"
+import headset from "@/assets/icons/headset.svg"
+import helpCircle from "@/assets/icons/help-circle.svg"
+import setting from "@/assets/icons/setting-07.svg"
+import onlineDot from "@/assets/icons/online-dot.svg"
+import arrowDown2 from "@/assets/icons/arrow-down-2.svg"
+import arrowRight2 from "@/assets/icons/arrow-right-2.svg"
+import search from "@/assets/icons/search.svg"
+import cmd from "@/assets/icons/cmd.svg"
+import notification from "@/assets/icons/notification-01.svg"
+import chevronDown from "@/assets/icons/chevron-down.svg"
+import chevronDownLight from "@/assets/icons/chevron-down-808080.svg"
+import calendar16 from "@/assets/icons/calendar-03.svg"
+import calendar14 from "@/assets/icons/calendar-03-14.svg"
+import arrowUpCircle from "@/assets/icons/arrow-up-circle.svg"
+import info from "@/assets/icons/info.svg"
+import more from "@/assets/icons/more.svg"
+import stars from "@/assets/icons/stars.svg"
+import sort from "@/assets/icons/sort.svg"
+import plus from "@/assets/icons/plus.svg"
+import moreCircle from "@/assets/icons/more-horizontal-circle-01.svg"
+import statusSuccess from "@/assets/icons/status-success.svg"
+import statusPending from "@/assets/icons/status-pending.svg"
+import statusRefunded from "@/assets/icons/status-refunded.svg"
+import avatar from "@/assets/avatar.webp"
+
+export const icons = {
+  logo, selectorChevrons, home, homeOutline, chartBarLine, money, file02, file02White, bubbleChat, presentation,
+  megaphone, userMultiple, modernTv, invoice, userList, invoice01, archive, archiveHeader, headset, helpCircle,
+  setting, onlineDot, arrowDown2, arrowRight2, search, cmd, notification, chevronDown, chevronDownLight, calendar16,
+  calendar14, arrowUpCircle, info, more, stars, sort, plus, moreCircle, statusSuccess, statusPending, statusRefunded,
+}
+export { avatar }
